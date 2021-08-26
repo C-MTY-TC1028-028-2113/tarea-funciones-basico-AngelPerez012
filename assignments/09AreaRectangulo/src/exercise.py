@@ -10,5 +10,6 @@ def main():
 
     print("El área del rectángulo es:",r)
 
+
 if __name__=='__main__':
     main()
